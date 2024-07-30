@@ -1,6 +1,3 @@
-# team-project-the-dream-team
-team-project-the-dream-team created by GitHub Classroom
-
 Contributors: Dawson Szarek, Angela Mankin, Atul Triplicane, and Sohan Bhakta
 
 Battleship is a type of strategy game that is played on a grid.
